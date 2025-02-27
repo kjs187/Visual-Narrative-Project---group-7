@@ -1,4 +1,4 @@
-# Visual-Narrative-Project---group-7# Project
+# Visual-Narrative-Project DSAN 5200-03 group-7# Project
 
 ## Overview
 
